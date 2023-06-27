@@ -1,4 +1,4 @@
-# Zelda: Tears of the Kingdom Mod Manager
+# Zelda: Tears of the Kingdom Mod Manager 
 
 <img src="src-tauri/icons/Square30x30Logo.png" alt='logo with a sword and a shield, in the zelda style'> [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg?style=for-the-badge)](https://opensource.org/licenses/BSD-3-Clause) ![GitHub all releases](https://img.shields.io/github/downloads/vasilvestre/totk-mod-manager-for-switch-emulators/total?style=for-the-badge) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yyeMqCXB) <a href="https://gamebanana.com/tools/13300"><img src="https://gamebanana.com/tools/embeddables/13300?type=medium"/></a>
 
