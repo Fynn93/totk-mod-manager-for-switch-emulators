@@ -14,7 +14,7 @@ export async function fetchGithubUpdatedMods(
         clientSecret: process.env.NEXT_PUBLIC_GITHUB_CLIENT_SECRET,
     })
     const mods = await octokit.request('GET /repos/{owner}/{repo}/releases/latest', {
-        owner: 'HolographicWings',
+        owner: 'Fynn93',
         repo: 'TOTK-Mods-collection',
         headers: {
             'X-GitHub-Api-Version': '2022-11-28',
